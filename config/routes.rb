@@ -1,4 +1,8 @@
 Rails.application.routes.draw do
+  resources :testclass2s
+
+  resources :testclasses
+
   resources :high_scores
 
   # The priority is based upon order of creation: first created -> highest priority.
