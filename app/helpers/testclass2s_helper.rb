@@ -1,0 +1,2 @@
+module Testclass2sHelper
+end
